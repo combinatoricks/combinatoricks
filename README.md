@@ -1,4 +1,4 @@
-## Hello👋
+## Greetings!
 I am an aspiring computer programmer currently learning Python and C++.
 <!--
 **combinatoricks/combinatoricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
